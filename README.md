@@ -1,2 +1,2 @@
-# thegazapledge
-The Gaza Pledge
+# freecityofberkeley
+Free City of Berkeley
